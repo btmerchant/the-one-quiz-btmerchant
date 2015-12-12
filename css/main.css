@@ -1,0 +1,24 @@
+li:first-of-type + li {
+  font-weight: bold;
+  text-decoration: underline;
+}
+li {
+  display: inline;
+}
+
+section:nth-child(odd) {
+  border-style: solid;
+}
+
+section:nth-child(even) {
+  background-color: lime;
+  }
+
+section:nth-child(even) > aside:first-of-type {
+  color: blue;
+}
+
+div:nth-child(2) {
+  position: absolute;
+  right: 0px;
+}

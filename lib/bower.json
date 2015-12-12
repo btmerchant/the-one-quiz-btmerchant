@@ -1,6 +1,6 @@
 {
-  "name": "lib",
-  "version": "0.0.0",
+  "name": "Brian Merchant",
+  "version": "1.0.0",
   "authors": [
     "Steve Brownlee <chortlehoort@gmail.com>"
   ],
@@ -15,5 +15,11 @@
   "dependencies": {
     "jasmine-core": "jasmine#~2.3.4",
     "jquery": "~2.1.4"
-  }
+  },
+  "homepage": "https://github.com/btmerchant/the-one-quiz-btmerchant",
+  "description": "The one quiz",
+  "keywords": [
+    "one",
+    "quiz"
+  ]
 }
